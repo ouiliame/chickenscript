@@ -1,0 +1,14 @@
+{
+  "name": "chickenscript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "William Chen",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "llvm-bindings": "^0.4.2"
+  }
+}
